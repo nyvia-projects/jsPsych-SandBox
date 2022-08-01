@@ -1,0 +1,4 @@
+# Project exclude paths
+/exp01/node_modules/
+/exp02/node_modules/
+/node_modules/
